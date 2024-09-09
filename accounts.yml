@@ -1,0 +1,8 @@
+build:
+  version: "v1"
+
+contact:
+  author: David Bakare
+  profile: default
+  service: accounts
+  url: https://github.com/3akare/Microservices-with-Spring-Boot

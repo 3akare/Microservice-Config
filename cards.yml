@@ -1,0 +1,11 @@
+build:
+  version: "v1"
+
+server:
+  port: 8082
+
+contact:
+  author: David Bakare
+  profile: default
+  service: cards
+  url: https://github.com/3akare/Microservices-with-Spring-Boot
