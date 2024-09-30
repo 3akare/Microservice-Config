@@ -1,5 +1,5 @@
 contact:
   author: "{cipher}906c6ea81a51ee79fcc5ade50d92005e2d82d9b2ebd822e617f75999b25ca29a"
-  profile: prod (updated by webhook)
+  profile: prod (updated by github webhook)
   service: accounts
   url: https://github.com/3akare/Microservices-with-Spring-Boot
