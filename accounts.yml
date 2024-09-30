@@ -1,8 +1,8 @@
 build:
-  version: "v1"
+  version: "v2"
 
 contact:
   author: David Bakare
-  profile: default
+  profile: default (updated by github webhook)
   service: accounts
   url: https://github.com/3akare/Microservices-with-Spring-Boot
