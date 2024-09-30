@@ -1,5 +1,5 @@
 build:
-  version: "v2"
+  version: v2
 
 server:
   port: 8082
